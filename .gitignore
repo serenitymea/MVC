@@ -57,3 +57,12 @@ nunit-*.xml
 __pycache__/
 .venv/
 .vscode/
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+appsettings.Development.json
+wwwroot/lib/
